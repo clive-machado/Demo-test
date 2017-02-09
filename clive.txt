@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Clive second edit
-=======
 bvhgdfgtd
->>>>>>> 64b59cf719b774d0541a052d3273e19159616cdc
+bvhgdfgtd
